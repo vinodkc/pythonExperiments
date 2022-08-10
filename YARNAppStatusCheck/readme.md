@@ -8,11 +8,13 @@ pip install requests
 
 pip install jsonpath-ng
 
-Step 2) Run the python script 'CheckYarnApps.py'
+Step 2) Download and run the python script `CheckYarnApps.py`
 
 eg :
 
+```
 python  CheckYarnApps.py 60 5 "https://abc.com/ws/v1/cluster/apps?state=ACCEPTED"
+```
 
 This test script will print the intersection of two consecutive set of applications in  `ACCEPTED` state 
 
