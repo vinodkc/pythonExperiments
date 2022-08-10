@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-
-# eg : http://c120-node3:8088/ws/v1/cluster/apps?state=ACCEPTED 
 import sys
 import json
 from jsonpath_ng.ext import parse
