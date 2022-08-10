@@ -3,10 +3,10 @@ Steps to test
 Step 1) Login to gateway node and install these  python modules 'requests', 'jsonpath-ng'
 
 eg:
-
+```
 pip install requests
-
 pip install jsonpath-ng
+```
 
 Step 2) Download and run the python script `CheckYarnApps.py`
 
