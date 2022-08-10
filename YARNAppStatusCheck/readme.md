@@ -5,6 +5,7 @@ Step 1) Login to gateway node and install these  python modules 'requests', 'jso
 eg:
 
 pip install requests
+
 pip install jsonpath-ng
 
 Step 2) Run the python script 'CheckYarnApps.py'
