@@ -12,6 +12,7 @@ eg :
 python  CheckYarnApps.py 60 5 "https://abc.com/ws/v1/cluster/apps?state=ACCEPTED"
 
 This test script will print the intersection of two consecutive set of applications in  `ACCEPTED` state 
+
 Expected Output :
 
 ```
