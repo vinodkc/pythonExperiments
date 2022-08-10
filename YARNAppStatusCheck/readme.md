@@ -23,22 +23,22 @@ This test will iterate 5 times with a pause of 60 seconds between consecutive RE
 Calling Yarn API <REST URL>
 Iteration 0 Attempt 1 , Application ID count: 1
 Iteration 0 Attempt 2 , Application ID count: 1
-Intersection of YARN AppIds in last 2 seconds
+Intersection of YARN AppIds in last 60 seconds
 set([application_1635806196684_0011])
 Iteration 1 Attempt 1 , Application ID count: 1
 Iteration 1 Attempt 2 , Application ID count: 1
-Intersection of YARN AppIds in last 2 seconds
+Intersection of YARN AppIds in last 60 seconds
 set([application_1635806196684_0011])
 Iteration 2 Attempt 1 , Application ID count: 0
 Iteration 2 Attempt 2 , Application ID count: 0
-Intersection of YARN AppIds in last 2 seconds
+Intersection of YARN AppIds in last 60 seconds
 set([])
 Iteration 3 Attempt 1 , Application ID count: 0
 Iteration 3 Attempt 2 , Application ID count: 0
-Intersection of YARN AppIds in last 2 seconds
+Intersection of YARN AppIds in last 60 seconds
 set([])
 Iteration 4 Attempt 1 , Application ID count: 0
 Iteration 4 Attempt 2 , Application ID count: 0
-Intersection of YARN AppIds in last 2 seconds
+Intersection of YARN AppIds in last 60 seconds
 set([])
 ```
